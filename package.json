@@ -12,7 +12,7 @@
   "repository": "TroyAlford/react-jsx-parser",
   "version": "1.13.0",
   "dependencies": {
-    "acorn-jsx": "^4.1.1",
+    "acorn-jsx": "^5.0.1",
     "react": "^16.4.0"
   },
   "devDependencies": {
